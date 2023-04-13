@@ -31,4 +31,5 @@ javascript:(function() {
 
   document.body.appendChild(iframe);
   document.body.appendChild(closeButton);
+  alert('Iframe script and calculator website made by Tacogamerman on github.')
 })();
