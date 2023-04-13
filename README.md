@@ -2,7 +2,7 @@
 
 Undetectable, cloaked and styled calculator iframe for instantly finding answers to the problem on any webpage.
 
-This has a blue circle which acts as an x button.
+This has a blue circle in the top corner of the screen which acts as an x button.
 
 This is executed by bookmarklet, look up how to execute a bookmarklet if you don't know.
 
