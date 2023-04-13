@@ -1,11 +1,11 @@
 javascript:(function() {
   var iframe = document.createElement('iframe');
-  iframe.setAttribute('src', 'https://www.desmos.com/fourfunction');
+  iframe.setAttribute('src', 'https://The-real-calculator.netlify.app');
   iframe.style.position = 'fixed';
   iframe.style.top = '50%';
   iframe.style.left = '50%';
   iframe.style.transform = 'translate(-50%, -50%)';
-  iframe.style.border = '2px solid purple';
+  iframe.style.border = '8px solid Aquamarine';
   iframe.style.width = '80%';
   iframe.style.height = '80%';
   iframe.style.zIndex = '9999';
@@ -16,7 +16,7 @@ javascript:(function() {
   closeButton.style.right = '5px';
   closeButton.style.fontSize = '20px';
   closeButton.style.color = 'white';
-  closeButton.style.backgroundColor = 'purple';
+  closeButton.style.backgroundColor = 'Aquamarine';
   closeButton.style.border = 'none';
   closeButton.style.borderRadius = '50%';
   closeButton.style.width = '30px';
